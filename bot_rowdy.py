@@ -16,12 +16,7 @@ from collections import Counter
 
 # ==================== DIRECT API ENDPOINTS ====================
 SHOPIFY_APIS = [
-  "http://insaneee7xshopiify-production-38dc.up.railway.app/shopify",
-  "http://chirag-x-shopify-production.up.railway.app/shopify",
-  "http://chirag-x-shopify-production-6ead.up.railway.app/shopify",
-  "http://chirag-x-shopify-production-e9ef.up.railway.app/shopify",
-  "http://insaneee7xshopiify-production.up.railway.app/shopify",
-  "https://noobs.cards/shopii",
+  "https://new-one.up.railway.app/shopii",
 ]
 
 # ==================== PREMIUM CUSTOM EMOJI IDS ====================
@@ -88,7 +83,7 @@ def premium_emoji(text):
 # ==================== BOT CONFIGURATION ====================
 API_ID = 34948848
 API_HASH = '72722816b24b5854f26e0f2a2a90cc61'
-BOT_TOKEN = '8801765308:AAHAcIIzOoA4voGDAqWzuUVeoRfDeSIrlnM'
+BOT_TOKEN = '9019817625:AAGHayUa7Al26vYMhdTav-Ynf_RT6QRHjdU'
 
 PREMIUM_FILE = 'premium.txt'
 SITES_FILE = 'sites.txt'
